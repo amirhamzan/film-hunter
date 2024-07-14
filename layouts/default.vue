@@ -1,6 +1,6 @@
 <template>
     <div>
-        <UAlert title="This is header!" />
+        <AppHeader />
         <slot />
         <UAlert title="This is footer!" />
     </div>
